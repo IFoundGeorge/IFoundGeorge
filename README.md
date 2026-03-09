@@ -15,17 +15,18 @@
 
 ## 👨‍💻 About Me
 
-💻 I'm an aspiring **Software Developer** passionate about building useful tools and automation.
+I'm an aspiring **Software Developer and Technician** who enjoys building systems that solve real problems and make people's lives easier.
 
-🚀 Currently working on:
-- AI Resume Analyzer
-- Automation workflows with Workato
-- Full-stack web apps
+I am passionate about technology, automation, and creating tools that improve efficiency. My goal is to develop practical solutions that help individuals and organizations work smarter.
 
-📚 Currently learning:
-- Next.js
-- AI integrations
-- Backend systems
+I often experiment with **AI-assisted development (vibe coding)**, but I also make sure to understand the code I work with. I can read, analyze, and modify code to improve functionality and troubleshoot issues.
+
+Currently, I focus on learning and building projects involving:
+
+- Full-stack web development
+- AI integrations and automation
+- Backend systems and APIs
+- Workflow automation tools like Workato
 
 ⚡ Fun fact:
 I enjoy building **AI tools and automation systems that solve real problems.**

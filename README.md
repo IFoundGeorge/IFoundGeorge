@@ -73,7 +73,7 @@ AI-powered resume analysis and candidate matching system.
 Automates email parsing and AI classification using Workato.
 
 🔹 **RandFourBoost**  
-Thesis-based hybrid ML model combining Random Forest, Fourier feature analysis, and boosting for robust music genre classification. 
+Thesis-based hybrid ML model combining Random Forest, Fourier feature analysis, and boosting for robust music genre classification.  
 [See project details](https://github.com/IFoundGeorge/RandFourBoost)
 
 ---

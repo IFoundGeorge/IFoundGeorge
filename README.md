@@ -66,9 +66,6 @@ I enjoy building **AI tools and automation systems that solve real problems.**
 
 ## 🚀 Featured Projects
 
-🔹 **AI Resume Analyzer**  
-AI-powered resume analysis and candidate matching system.
-
 🔹 **RandFourBoost**  
 Thesis-based hybrid ML model combining Random Forest, Fourier feature analysis, and boosting for robust music genre classification.  
 [See project details](https://github.com/IFoundGeorge/RandFourBoost)
@@ -80,7 +77,6 @@ Various small Python projects and utilities.
 ---
 
 ## 👀 Visitor Counter
-
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.profile"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=IFoundGeorge.profile"/>
 </div>

@@ -72,8 +72,8 @@ AI-powered resume analysis and candidate matching system.
 🔹 **Email Automation System**  
 Automates email parsing and AI classification using Workato.
 
-🔹 **Career Agent AI**  
-Automated hiring assistant using AI workflows.
+🔹 **RandFourBoost**  
+Thesis-based hybrid ML model combining Random Forest, Fourier feature analysis, and boosting for robust music genre classification. [See project details](https://github.com/IFoundGeorge/RandFourBoost)
 
 ---
 

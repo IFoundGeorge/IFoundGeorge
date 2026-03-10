@@ -69,12 +69,13 @@ I enjoy building **AI tools and automation systems that solve real problems.**
 🔹 **AI Resume Analyzer**  
 AI-powered resume analysis and candidate matching system.
 
-🔹 **Email Automation System**  
-Automates email parsing and AI classification using Workato.
-
 🔹 **RandFourBoost**  
 Thesis-based hybrid ML model combining Random Forest, Fourier feature analysis, and boosting for robust music genre classification.  
 [See project details](https://github.com/IFoundGeorge/RandFourBoost)
+
+🔹 **Other Python Scripts**  
+Various small Python projects and utilities.  
+[Explore all projects](https://github.com/IFoundGeorge/python-projects)
 
 ---
 

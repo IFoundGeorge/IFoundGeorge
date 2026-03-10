@@ -6,7 +6,7 @@
 <h3 align="center">Aspiring Software Developer | AI & Automation Enthusiast</h3>
 
 <div align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/cyrus-cavero-873992159/?locale=en_US)">
+  <a href="https://www.linkedin.com/in/cyrus-cavero-873992159/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>

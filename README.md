@@ -66,13 +66,17 @@ I enjoy building **AI tools and automation systems that solve real problems.**
 
 ## 🚀 Featured Projects
 
-🔹 **RandFourBoost**  
+### 🔹 RandFourBoost
 Thesis-based hybrid ML model combining Random Forest, Fourier feature analysis, and boosting for robust music genre classification.  
 [See project details](https://github.com/IFoundGeorge/RandFourBoost)
 
-🔹 **Other Python Scripts**  
+### 🔹 Other Python Scripts
 Various small Python projects and utilities.  
 [Explore all projects](https://github.com/IFoundGeorge/python-projects)
+
+### 🔹 Lyrics to Powerpoint
+A small project for our church to copy and paste lyrics into PowerPoint.  
+[Explore project](https://github.com/IFoundGeorge/Lyrics-to-Powerpoint-1.0)
 
 ---
 

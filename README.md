@@ -55,10 +55,10 @@ I enjoy building **AI tools and automation systems that solve real problems.**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IFoundGeorge&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Cryuis&show_icons=true&theme=tokyonight"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFoundGeorge&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryuis&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -68,19 +68,19 @@ I enjoy building **AI tools and automation systems that solve real problems.**
 
 ### 🔹 RandFourBoost
 Thesis-based hybrid ML model combining Random Forest, Fourier feature analysis, and boosting for robust music genre classification.  
-[See project details](https://github.com/IFoundGeorge/RandFourBoost)
+[See project details](https://github.com/Cryuis/RandFourBoost)
 
 ### 🔹 Other Python Scripts
 Various small Python projects and utilities.  
-[Explore all projects](https://github.com/IFoundGeorge/python-projects)
+[Explore all projects](https://github.com/Cryuis/python-projects)
 
 ### 🔹 Lyrics to Powerpoint
 A small project for our church to copy and paste lyrics into PowerPoint.  
-[Explore project](https://github.com/IFoundGeorge/Lyrics-to-Powerpoint-1.0)
+[Explore project](https://github.com/Cryuis/Lyrics-to-Powerpoint-1.0)
 
 ---
 
 ## 👀 Visitor Counter
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=IFoundGeorge.profile"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cryuis.profile"/>
 </div>
